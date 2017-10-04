@@ -1,1 +1,3 @@
-# Curso de introducao ao GitHub
+# Curso de introducao ao Github
+==================
+Aprendendo a como utilizar o github.
